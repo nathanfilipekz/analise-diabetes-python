@@ -78,4 +78,4 @@ A glicose tem a maior correlação com o diagnóstico (0,49), seguida por BMI (0
 
 **Nathan Filipe Rosa de Souza**
 [GitHub](https://github.com/nathanfilipekz) · [LinkedIn](https://www.linkedin.com/in/nathan-filipe-rosa-de-souza/)
-📊 **[Ver o dashboard interativo](https://nathanfilipekz.github.io/analise-clinica-sql/)**
+📊 **[Ver o dashboard interativo](https://nathanfilipekz.github.io/analise-diabetes-python/)**
